@@ -14,7 +14,7 @@ This doesn't happen when run normally through Processing.
 
 Hold left click on a grade entry, drag, and release the left mouse button to select the grade. Totals on the right are automatically calculated. 
 
-Demo: (Video coming soon!)
+Demo: [GPA Calculator Demo](https://youtu.be/ReXjAboYYMo)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
