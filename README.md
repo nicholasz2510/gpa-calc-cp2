@@ -1,6 +1,6 @@
 # GPA Calculator
 
-GPA Calculator is a p5.js project for calculating a student's GPA and graduation eligibility. 
+GPA Calculator is a p5.js project for calculating a student's GPA, credit totals, and graduation eligibility. 
 
 ## How to run
 
