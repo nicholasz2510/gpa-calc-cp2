@@ -1,4 +1,4 @@
-<h1 align="center">GPA Calculator</h1>
+Nicholas Zhang<h1 align="center">GPA Calculator</h1>
 
 GPA Calculator is a p5.js project for calculating a student's GPA, credit totals, and graduation eligibility. 
 
@@ -24,9 +24,10 @@ The GPA claculator has the ability to save your grades in the form of a TXT file
 - "Grade Wheel" Demo: [Grade Wheel GIF](https://grantshandy.xyz/gif/gpa-calc.gif)
 
 ## License
-Copyright 2020 Nicholas ZhangNicholas Zhang
+Copyright 2020 Nicholas Zhang
+Copyright 2020 Grant Handy
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission https://github.com/nicholasz2510is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
