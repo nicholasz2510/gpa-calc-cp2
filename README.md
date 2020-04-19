@@ -4,8 +4,10 @@
 
 ## How to run
 
-Since it is a website, having an .exe or .jar executable doesn't make sense. Usually, you would be able to just run the index.html file, but modern browsers don't allow websites to have access to files without a supported protocol scheme (CORS policy). Because of these limitations, I have copied the code into an [Open Processing sketch](https://www.openprocessing.org/sketch/864460). If it doesn't run immediately, click the play button at the top of the window. 
-Alternatively, you can open the GpaCalc folder as a p5.js project in the Processing IDE.
+Since it is a website, having an .exe or .jar executable doesn't make sense. Usually, you would be able to just run the index.html file, but modern browsers don't allow websites to have access to files without a supported protocol scheme (CORS policy). Because of these limitations, I have done the following things:
+* I have copied the code into a [p5.js Web Editor sketch](https://editor.p5js.org/nicholasz2510/embed/v5RjPAf1Y). This is the cleanest looking way to run it, and doesn't have any extra bugs. 
+* I have copied the code into an [Open Processing sketch](https://www.openprocessing.org/sketch/864460). If it doesn't run immediately, click the play button at the top of the window. 
+* Alternatively, you can open the GpaCalc folder as a p5.js project in the Processing IDE.
 
 NOTE: There is a minor bug when running with OpenProcessing where the file I/O buttons are in the wrong place when you scroll. 
 This doesn't happen when run normally through Processing. 
@@ -25,6 +27,12 @@ Grade Selection Demo:
 ![](https://grantshandy.xyz/gif/gpa-calc.gif)
 
 <sup>Grade Selection Demo credit: Grant Handy</sup>
+
+## Embed
+
+```html
+<iframe src="https://editor.p5js.org/nicholasz2510/embed/v5RjPAf1Y"></iframe>
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
