@@ -33,6 +33,7 @@ Grade Selection Demo:
 ```html
 <iframe src="https://editor.p5js.org/nicholasz2510/embed/v5RjPAf1Y"></iframe>
 ```
+You may need to alter the width and height for the embed to be large enough. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
