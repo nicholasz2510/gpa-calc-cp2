@@ -22,12 +22,6 @@ Demo Video:
 
 [![Demo Video](http://img.youtube.com/vi/ReXjAboYYMo/0.jpg)](http://www.youtube.com/watch?v=ReXjAboYYMo "GPA Calculator Demo")
 
-Grade Selection Demo: 
-
-![](https://grantshandy.xyz/gif/gpa-calc.gif)
-
-<sup>Grade Selection Demo credit: Grant Handy</sup>
-
 ## Embed
 
 ```html
